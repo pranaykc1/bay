@@ -1,11 +1,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
+title: Pranay Chaurasia
 description: >- # this means to ignore newlines until "baseurl:"
-  Bay is a minimal Jekyll Theme.
+  My name is Pranay, and I'm trying to be a doctor. I like writing, playing basketball, bouldering, cooking, wikipedia, and meeting new people. I believe Healthcare is a Human Right. I believe that to improve a person's health we must tackle the roots of suffering, like homelessness, food insecurity, generational debt, and wealth inequality. 
 baseurl: "/bay" # the subpath of the site
-url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
+url: "https://pranaykc1.github.io/bay/" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -13,30 +13,24 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
+    - name: Podcast
     - name: Blog
 
 footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: yourmail@domain.com
-      link: mailto:yourmail@domain.com
+      value: pkc1@pm.me
+      link: mailto:pkc1@pm.me
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
   follow:
     - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: Facebook
-      link: http://facebook.com/YourFacebookUsername
+      link: https://twitter.com/Pranay_KC
+      username: "@Pranay_KC"
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
-    - name: GitHub
-      link: http://github.com/YourGitHubUsername
-    - name: Dribbble
-      link: https://dribbble.com/YourDribbbleUsername
+      link: www.linkedin.com/in/pranay-chaurasia-610317b4
     - name: RSS
       link: /feed.xml
 
