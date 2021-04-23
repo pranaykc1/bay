@@ -5,7 +5,7 @@ title: Pranay Chaurasia
 description: >- # this means to ignore newlines until "baseurl:"
   My name is Pranay, and I'm trying to be a doctor. I like writing, playing basketball, bouldering, cooking, wikipedia, and meeting new people. I believe Healthcare is a Human Right. I believe that to improve a person's health we must tackle the roots of suffering, like homelessness, food insecurity, generational debt, and wealth inequality. 
 baseurl: "/bay" # the subpath of the site
-url: "https://pranaykc1.github.io/bay/" # the base hostname & protocol for the site
+url: "https://eliottvincent.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
